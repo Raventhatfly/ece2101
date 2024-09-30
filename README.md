@@ -1,4 +1,4 @@
-# ECE2101 评奖评优 V1
+# ECE2101 评奖评优
 
 ---
 
@@ -52,6 +52,11 @@
 ### 三、时间线
 由于10月3日材料需要上交校区，请各位在***10月1日晚上23:59***之前把 ***活动记实***和***能力素养***和上交到Sharepoint上。10月2日和3日班委需要负责审核材料并提醒文件缺失等其他问题。学年小结表电子版请在***10月7日晚上23:59***前提交在Sharepoint. 
 
-### 参考文件
+### 四、参考文件
 
 待参考的部分表格和资料已经放在本仓库`material`和`reference`文件夹中。
+
+### 五、查询通道
+
+* 学年评奖评优查询官网[https://zjuintl.sharepoint.com/sites/aaa/SitePages/ProjectHome.aspx](https://zjuintl.sharepoint.com/sites/aaa/SitePages/ProjectHome.aspx)
+* 体质健康查询：[https://www.wjx.cn/resultquery.aspx?activity=283749840](https://www.wjx.cn/resultquery.aspx?activity=283749840)
